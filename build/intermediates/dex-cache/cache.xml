@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richa\Documents\HikersWatch\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Richa\Documents\HikersWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_11b9ec7d753621bfa3daf3f4de8223d61d3b6f57\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richa\.android\build-cache\d9c3cbb872e8d1f16811a00d770cb003fc240bf7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Richa\Documents\HikersWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0f3898e856bc5351445d9d1644c053e8245991e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richa\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Richa\Documents\HikersWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_2ad44a27489cd3df0828e9b45fd96a129c505951\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Richa\Documents\HikersWatch\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b53bd8a44bfc35b2c09b14378700966b300a2bd">
+        <dex dex="C:\Users\Richa\Documents\HikersWatch\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_0978c8adcb70881afeca191fef02136146cc696b\classes.dex" />
+    </item>
+
+</items>
